@@ -1,5 +1,5 @@
 # autoinstall packages
-#install.packages("readr", "randomcoloR", "tidyverse", "stringr")
+#install.packages("readr", "randomcoloR", "tidyverse")
 
 # include packages
 #library(readr, randomcoloR, tidyverse)
