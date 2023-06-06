@@ -8,8 +8,7 @@
 #library(tidyverse, RRF)
 
 # working directory
-setwd("C:/Users/lenab/OneDrive - Uppsala universitet/Master Thesis/Data Analysis")
-#setwd("C:/Users/LocalUser/Documents/LenaBlaase/Data Analysis")
+setwd("directory")
 
 
 
