@@ -5,7 +5,7 @@
 #install.packages("tidyverse","ggcorrplot", "Metrics", "ggplot2", "ggrepel", "RRF")
 
 # include packages
-#library(tidyverse, RRF)
+#library(tidyverse, ggcorrplot, Metrics, ggplot2, ggrepel, RRF)
 
 # working directory
 setwd("directory")
